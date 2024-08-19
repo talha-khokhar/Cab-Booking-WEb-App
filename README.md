@@ -2,6 +2,11 @@
 
 CabHub is a modern, responsive cab booking web application built with Next.js and styled using Tailwind CSS. The app offers various features including dark mode support, smooth animations, and a responsive carousel. It includes several essential components such as a hero section, contact form, cab listings, about section, app store links, and testimonials to provide a seamless user experience.
 
+
+![CabHub Web App Layout](https://github.com/talha-khokhar/Cab-Booking-WEb-App/blob/master/public/layout.png?raw=true)
+
+
+
 ## Features
 
 - **Responsive Design**: The application is optimized for different screen sizes and devices, ensuring a smooth experience on both mobile and desktop platforms.
